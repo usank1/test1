@@ -1,0 +1,4 @@
+repository "git_test@wechat_os_qy06dwz4e_5joimipd32uh5wk@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
